@@ -1,0 +1,17 @@
+.form-section{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+    padding-bottom: 20px;
+}
+
+.form-content{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+h3{
+    color: aqua;
+}
